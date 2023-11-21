@@ -7,6 +7,7 @@ Welcome to the Immersive AR Experience! This AR app provides a captivating immer
 ### Prerequisites
 - Xcode installed on your Mac
 - An iOS device (AR features don't work on the simulator)
+- Downloading Asset File from Link Below
 
 ### Getting Started
 
