@@ -1,36 +1,39 @@
+# Immersive AR 
 
-# Immersive AR
+Welcome to the Immersive AR Experience! This AR app provides a captivating immersive experience. Follow the steps below to get started.
 
-Welcome to Immersive AR! This project allows you to experience immersive augmented reality (AR) content on your iOS device.
-
-## Getting Started
-
-Follow these steps to get started with Immersive AR:
+## Instructions
 
 ### Prerequisites
-
 - Xcode installed on your Mac
-- An iOS device (AR features do not work in the simulator)
+- An iOS device (AR features don't work on the simulator)
 
-### Clone the Repository
+### Getting Started
 
-```bash
-git clone https://github.com/varxcx/ImmersiveAR.git
-cd ImmersiveAR
-```
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/varxcx/ImmersiveAR.git
+   cd ImmersiveAR
+Build and Run:
+Open the project in Xcode, build, and run on your iOS device.
 
-### Build and Run
+bash
+Copy code
+open ImmersiveAR.xcodeproj
+Device Orientation:
+Hold your iPhone vertically in a steady position. The AR experience works best in a stable environment.
 
-1. Open the `ImmersiveAR.xcodeproj` file in Xcode.
-2. Connect your iOS device to your Mac.
-3. Select your iOS device as the build target.
-4. Click the "Run" button in Xcode to build and run the app on your device.
+Name Immersive AR:
+Give your AR experience a unique name.
 
-### AR Experience
+Download Assets:
+   [Download assets ZIP file](https://drive.google.com/drive/folders/135KOuIXiFuAdVGXwcjlhM2smolYTKuns?usp=drive_link)
 
-1. Once the app is running on your device, hold your phone vertically and keep it steady.
-2. Experience the immersive AR content displayed on your device.
+Add Assets:
+Unzip the downloaded file and add all assets to the project. Directly add where all files are present in the project, do not create subfloders.
 
-## Note
+Launch the App:
+Relaunch the app to experience the immersive AR environment with the added assets.
 
-AR features are not supported in the simulator; hence, a physical iOS device is required to experience augmented reality.
+Note
+AR features may not work on the simulator; use a physical iOS device for the best experience.
